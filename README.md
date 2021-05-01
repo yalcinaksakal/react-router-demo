@@ -15,8 +15,6 @@ useHistory programatic navigation
 
 Prompt (when, message) prevent unwanted transitions
 
-URLSearchParams
-
 useLocation
 
 URLSearchParams()
@@ -27,3 +25,6 @@ custom hook: useHttp
 useCallback in custom hook
 
 useEffect
+
+Lazy Loading
+React.lazy Suspense and fallback

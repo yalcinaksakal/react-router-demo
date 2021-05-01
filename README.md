@@ -30,3 +30,5 @@ useEffect
 
 Lazy Loading
 React.lazy Suspense and fallback
+
+server side configuration redirect all to index.html ("/*  /index.html  200")
